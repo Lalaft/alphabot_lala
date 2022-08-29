@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Mau nyolong sticker gw?" //namabot kalian
-global.ownername= "Izin dlu_-" //nama kalian
-global.myweb = "LalaBot||MD" //bebas asal jan hapus
+global.botname = "Selfbot||MD" //namabot kalian
+global.ownername= "Tymon Kolasinski" //nama kalian
+global.myweb = "Selfbot||MD" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "NOTHING@gmail.com" //bebas
@@ -36,14 +36,14 @@ global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281346074841'] //premium user
 global.owner = ["6281346074841","6281346074841"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "Izin dlu_-" // nomor wa kalian
+global.ownernomer = "6281346074841" // nomor wa kalian
 global.ownernomerr = "6281346074841" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Mau nyolong sticker gw? Izin dlu_-' //sticker wm ganti nama kalian
+global.packname = 'Mau Nyolong sticker gw?' //sticker wm ubah
+global.author = 'Izin dlu_-' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
